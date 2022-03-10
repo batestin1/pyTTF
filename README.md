@@ -31,5 +31,5 @@ pyTTF()
 ```
 <p> out </p>
 
-![delta](img/arquitetura.png)
+![delta](img/out.png)
 
